@@ -1,2 +1,2 @@
 # transportation-problem-simple
-Rezolvarea problemele de transport folosind programarea liniară.
+Rezolvarea problemelor de transport folosind programarea liniară.
